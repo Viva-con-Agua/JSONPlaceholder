@@ -1,0 +1,84 @@
+{
+  "crews": 
+  [
+    { 
+      "id" : "1",
+      "name" : "VcA-Neustadt",
+      "cities" : "Neustadt"
+    },
+    { 
+      "id" : "2",
+      "name" : "VcA-Bärstadt",
+      "cities" : "Bärstadt"
+    },
+    { 
+      "id" : "3",
+      "name" : "VcA-Norden",
+      "cities" : "Norden"
+    },
+    { 
+      "id" : "4",
+      "name" : "VcA-Lönneberga",
+      "cities" : "Lönneberga"
+    },
+    { 
+      "id" : "5",
+      "name" : "VcA-Klopapier",
+      "cities" : "Klopapier"
+    }
+  ],
+  "households" : 
+  [
+    {
+      "id": "1",
+      "crewId": "4",
+      "sumYear": "127574",
+      "sumLastyear": "546253",
+      "currency": "eurocent",
+      "dateUpdated": "01.04.2020",
+      "dateCreated": "31.03.2020"
+     }
+   ],
+   "takings" : 
+   [
+    {
+      "id": "1",
+      "crewId": "4",
+      "sumYear": "324239",
+      "sumLastyear": "6902341",
+      "currency": "eurocent",
+      "dateUpdated": "01.04.2020",
+      "dateCreated": "31.03.2020"
+    }
+   ],
+   "expenses" : 
+   [
+    {
+     "id": "1",
+     "crewId": "2",
+     "sumYear": "8329"
+    }
+   ],
+   "overview" :
+   [
+    {
+      "id": "1",
+      "crewId": "4",
+      "sumHouseholds": "897239",
+      "sumTakings": "324234",
+      "sumTakingsLastyear": "398227",
+      "sumExpenses": "1238",
+      "cash": "2342"
+    },
+    
+    {
+      "id": "2",
+      "crewId": "2",
+      "sumHouseholds": "34534",
+      "sumTakings": "3642235",
+      "sumTakingsLastyear": "234534",
+      "sumExpenses": "23534",
+      "casH": "123"
+    }
+   ]
+ }
